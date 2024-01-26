@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swastika Satya</h1>
 <h3 align="center">Passionate developer from India</h3>
 
-- 🔭 I’m currently working on **LLM Based Machine Learning Visualizer**
+- 🔭 I’m currently working on **LLM Based Data Structure and Machine Learning Algorithms Visualizer**
 
 - 📫 How to reach me **swastika22102@iiitnr.edu.in**
 
